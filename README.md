@@ -1,16 +1,2 @@
 # spotify_task
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This spotify clone app is not the full version of the spotify app it is basically the search part of the spotify app this makes use of the spotify end point to retrieve the data, and the data being retrieved here is the album and artist data in which the details of this are being displayed in the app and i would be including the screenshot of this in the github file.
