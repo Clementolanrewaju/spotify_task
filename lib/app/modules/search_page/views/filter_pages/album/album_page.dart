@@ -79,7 +79,7 @@ class AlbumPage extends HookConsumerWidget {
                                   XBox(context.deviceWidth() / 60),
                                   Text(
                                     done.albums!.items![index].releaseDate
-                                        .toString(),
+                                        .toString().split("-").first,
                                     style: TextStyle(
                                         fontWeight: FontWeight.w400,
                                         fontSize: 12,
