@@ -7,4 +7,4 @@ This spotify clone app is not the full version of the spotify app it is basicall
 
 |    :---:     |     :---:      |  
 | <img src="screenshots/Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-06 at 12.17.28.png" width="500">   | <img src="screenshots/Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-06 at 12.17.48.png" width="500">
-
+# features
